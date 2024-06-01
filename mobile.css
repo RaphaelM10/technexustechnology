@@ -366,6 +366,12 @@
                 color: #fff;
                 
             }
+            .footer-div h2{
+                font-size: 17px;
+            }
+            .footer-div span{
+                font-size: 15px;
+            }
         }
         
 

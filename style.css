@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     background-color: rgb(208, 212, 221);
+    font-family: "Roboto", sans-serif;
 }
 
 
@@ -46,12 +47,14 @@ main .main-links{
     background-color: rgb(12, 36, 248);
     border: 2px solid rgb(208, 212, 221);
    
+   
 }
 
 main .main-links-div{
     background-color: rgb(12, 36, 248);
     padding: 50px;
     cursor: pointer;
+   
     
 }
 main .main-links-div img {
@@ -69,5 +72,23 @@ main .main-links-div p {
     text-align: center;
     background-color: rgb(12, 36, 248);
     color: #fff;
-    
+
+}
+
+footer{
+    margin-top: 100px;
+}
+.footer-div{
+    background-color: rgb(20, 26, 105);
+    padding: 50px;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-div h2{
+    background-color: rgb(20, 26, 105);
+}
+
+.footer-div span{
+    background-color: rgb(20, 26, 105);
 }
