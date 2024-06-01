@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(208, 212, 221);
+}
+
+
+a{
+    text-decoration: none;
+    background-color: rgb(12, 36, 248);
+}
+
+.header-h1 h1{
+    font-family: "Roboto", sans-serif;
+    height: 400;
+    color: #fff;
+    text-align: center;
+    background-color: rgb(20, 26, 105);
+    padding: 30px;
+}
+main .main-red{
+    background-color: rgb(208, 212, 221);
+    width: 100%;
+}
+main .main-red h2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    height: 400;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 100px;
+    color: #fff;
+    background-color: rgb(20, 26, 105);
+}
+
+
+main .main-links{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(12, 36, 248);
+    border: 2px solid rgb(208, 212, 221);
+   
+}
+
+main .main-links-div{
+    background-color: rgb(12, 36, 248);
+    padding: 50px;
+    cursor: pointer;
+    
+}
+main .main-links-div img {
+
+    background-color: rgb(12, 36, 248);
+    width: 120px;
+}
+main .main-links-div img:hover{
+    transition: 0.5s;
+    padding: 7px;
+}
+main .main-links-div p {
+    font-family: "Roboto", sans-serif;
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(12, 36, 248);
+    color: #fff;
+    
+}

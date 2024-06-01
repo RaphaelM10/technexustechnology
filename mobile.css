@@ -1,0 +1,478 @@
+@media(max-width:1250px){
+    main .main-links-div img {
+
+        background-color: rgb(12, 36, 248);
+        width: 100px;
+    }
+}
+
+
+
+@media(max-width:1205px){
+    main .main-links-div img {
+
+        background-color: rgb(12, 36, 248);
+        width: 90px;
+    }
+    main .main-red h2{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        height: 400;
+        font-size: 20px;
+        margin-left: 300px;
+        margin-right: 300px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 100px;
+        color: #fff;
+        background-color: rgb(20, 26, 105);
+    }
+
+    main .main-links{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 300px;
+        margin-right: 300px;
+        background-color: rgb(12, 36, 248);
+        border: 2px solid rgb(208, 212, 221);
+       
+    }
+}
+
+
+
+
+
+@media(max-width:984px){
+    main .main-links-div img {
+
+        background-color: rgb(12, 36, 248);
+        width: 90px;
+    }
+    main .main-red h2{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        height: 400;
+        font-size: 20px;
+        margin-left: 200px;
+        margin-right: 200px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 100px;
+        color: #fff;
+        background-color: rgb(20, 26, 105);
+    }
+
+    main .main-links{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 200px;
+        margin-right: 200px;
+        background-color: rgb(12, 36, 248);
+        border: 2px solid rgb(208, 212, 221);
+       
+    }
+}
+
+
+
+
+
+
+
+@media(max-width:784px){
+    main .main-links-div img {
+
+        background-color: rgb(12, 36, 248);
+        width: 90px;
+    }
+    main .main-red h2{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        height: 400;
+        font-size: 20px;
+        margin-left: 100px;
+        margin-right: 100px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 100px;
+        color: #fff;
+        background-color: rgb(20, 26, 105);
+    }
+
+    main .main-links{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 100px;
+        margin-right: 100px;
+        background-color: rgb(12, 36, 248);
+        border: 2px solid rgb(208, 212, 221);
+       
+    }
+}
+
+
+
+
+
+@media(max-width:584px){
+    main .main-links-div img {
+
+        background-color: rgb(12, 36, 248);
+        width: 70px;
+    }
+    main .main-red h2{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        height: 400;
+        font-size: 20px;
+        margin-left: 90px;
+        margin-right: 90px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 100px;
+        color: #fff;
+        background-color: rgb(20, 26, 105);
+    }
+
+    main .main-links{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 90px;
+        margin-right: 90px;
+        background-color: rgb(12, 36, 248);
+        border: 2px solid rgb(208, 212, 221);
+       
+    }
+}
+
+
+
+
+@media(max-width:530px){
+
+    
+.header-h1 h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    height: 400;
+    color: #fff;
+    text-align: center;
+    background-color: rgb(20, 26, 105);
+    padding: 30px;
+}
+    main .main-links-div img {
+
+        background-color: rgb(12, 36, 248);
+        width: 70px;
+    }
+    main .main-red h2{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        height: 400;
+        font-size: 18px;
+        margin-left: 60px;
+        margin-right: 60px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 100px;
+        color: #fff;
+        background-color: rgb(20, 26, 105);
+    }
+
+    main .main-links{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 60px;
+        margin-right: 60px;
+        background-color: rgb(12, 36, 248);
+        border: 2px solid rgb(208, 212, 221);
+       
+    }
+    main .main-links-div p {
+        font-family: "Roboto", sans-serif;
+        margin-top: 50px;
+        text-align: center;
+        font-size: 15px;
+        background-color: rgb(12, 36, 248);
+        color: #fff;
+        
+    }
+}
+
+
+
+
+@media(max-width:462px){
+
+    
+    .header-h1 h1{
+        font-family: "Roboto", sans-serif;
+        font-size: 20px;
+        height: 400;
+        color: #fff;
+        text-align: center;
+        background-color: rgb(20, 26, 105);
+        padding: 30px;
+    }
+        main .main-links-div img {
+    
+            background-color: rgb(12, 36, 248);
+            width: 70px;
+        }
+        main .main-red h2{
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            height: 400;
+            font-size: 18px;
+            margin-left: 40px;
+            margin-right: 40px;
+            font-family: "Roboto", sans-serif;
+            margin-top: 100px;
+            color: #fff;
+            background-color: rgb(20, 26, 105);
+        }
+    
+        main .main-links{
+            display: flex;
+            justify-content: space-around;
+            margin-left: 40px;
+            margin-right: 40px;
+            background-color: rgb(12, 36, 248);
+            border: 2px solid rgb(208, 212, 221);
+           
+        }
+        main .main-links-div p {
+            font-family: "Roboto", sans-serif;
+            margin-top: 50px;
+            text-align: center;
+            font-size: 15px;
+            background-color: rgb(12, 36, 248);
+            color: #fff;
+            
+        }
+    }
+    
+
+
+
+
+
+
+    
+@media(max-width:420px){
+
+    
+    .header-h1 h1{
+        font-family: "Roboto", sans-serif;
+        font-size: 20px;
+        height: 400;
+        color: #fff;
+        text-align: center;
+        background-color: rgb(20, 26, 105);
+        padding: 30px;
+    }
+        main .main-links-div img {
+    
+            background-color: rgb(12, 36, 248);
+            width: 70px;
+        }
+        main .main-red h2{
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            height: 400;
+            font-size: 18px;
+            margin-left: 10px;
+            margin-right: 10px;
+            font-family: "Roboto", sans-serif;
+            margin-top: 100px;
+            color: #fff;
+            background-color: rgb(20, 26, 105);
+        }
+    
+        main .main-links{
+            display: flex;
+            justify-content: space-around;
+            margin-left: 10px;
+            margin-right: 10px;
+            background-color: rgb(12, 36, 248);
+            border: 2px solid rgb(208, 212, 221);
+           
+        }
+        main .main-links-div p {
+            font-family: "Roboto", sans-serif;
+            margin-top: 50px;
+            text-align: center;
+            font-size: 15px;
+            background-color: rgb(12, 36, 248);
+            color: #fff;
+            
+        }
+    }
+    
+
+
+
+
+
+    @media(max-width:370px){
+
+    
+        .header-h1 h1{
+            font-family: "Roboto", sans-serif;
+            font-size: 17px;
+            height: 400;
+            color: #fff;
+            text-align: center;
+            background-color: rgb(20, 26, 105);
+            padding: 30px;
+        }
+            main .main-links-div img {
+        
+                background-color: rgb(12, 36, 248);
+                width: 70px;
+            }
+            main .main-red h2{
+                display: flex;
+                justify-content: center;
+                padding: 20px;
+                height: 400;
+                font-size: 15px;
+                margin-left: 0px;
+                margin-right: 0px;
+                font-family: "Roboto", sans-serif;
+                margin-top: 100px;
+                color: #fff;
+                background-color: rgb(20, 26, 105);
+            }
+        
+            main .main-links{
+                display: flex;
+                justify-content: space-around;
+                margin-left: 1px;
+                margin-right: 1px;
+                background-color: rgb(12, 36, 248);
+                border: 2px solid rgb(208, 212, 221);
+               
+            }
+            main .main-links-div p {
+                font-family: "Roboto", sans-serif;
+                margin-top: 50px;
+                text-align: center;
+                font-size: 15px;
+                background-color: rgb(12, 36, 248);
+                color: #fff;
+                
+            }
+        }
+        
+
+
+        @media(max-width:350px){
+
+    
+            .header-h1 h1{
+                font-family: "Roboto", sans-serif;
+                font-size: 17px;
+                height: 400;
+                color: #fff;
+                text-align: center;
+                background-color: rgb(20, 26, 105);
+                padding: 30px;
+            }
+                main .main-links-div img {
+            
+                    background-color: rgb(12, 36, 248);
+                    width: 60px;
+                }
+                main .main-red h2{
+                    display: flex;
+                    justify-content: center;
+                    padding: 20px;
+                    height: 400;
+                    font-size: 15px;
+                    margin-left: 0px;
+                    margin-right: 0px;
+                    font-family: "Roboto", sans-serif;
+                    margin-top: 100px;
+                    color: #fff;
+                    background-color: rgb(20, 26, 105);
+                }
+            
+                main .main-links{
+                    display: flex;
+                    justify-content: space-around;
+                    margin-left: 1px;
+                    margin-right: 1px;
+                    background-color: rgb(12, 36, 248);
+                    border: 2px solid rgb(208, 212, 221);
+                   
+                }
+                main .main-links-div p {
+                    font-family: "Roboto", sans-serif;
+                    margin-top: 50px;
+                    text-align: center;
+                    font-size: 12px;
+                    background-color: rgb(12, 36, 248);
+                    color: #fff;
+                    
+                }
+            }
+            
+
+
+
+
+            @media(max-width:330px){
+
+    
+                .header-h1 h1{
+                    font-family: "Roboto", sans-serif;
+                    font-size: 17px;
+                    height: 400;
+                    color: #fff;
+                    text-align: center;
+                    background-color: rgb(20, 26, 105);
+                    padding: 30px;
+                }
+                    main .main-links-div img {
+                
+                        background-color: rgb(12, 36, 248);
+                        width: 50px;
+                    }
+                    main .main-red h2{
+                        display: flex;
+                        justify-content: center;
+                        padding: 20px;
+                        height: 400;
+                        font-size: 15px;
+                        margin-left: 0px;
+                        margin-right: 0px;
+                        font-family: "Roboto", sans-serif;
+                        margin-top: 100px;
+                        color: #fff;
+                        background-color: rgb(20, 26, 105);
+                    }
+                
+                    main .main-links{
+                        display: flex;
+                        justify-content: space-around;
+                        margin-left: 1px;
+                        margin-right: 1px;
+                        background-color: rgb(12, 36, 248);
+                        border: 2px solid rgb(208, 212, 221);
+                       
+                    }
+                    main .main-links-div p {
+                        font-family: "Roboto", sans-serif;
+                        margin-top: 50px;
+                        text-align: center;
+                        font-size: 10px;
+                        background-color: rgb(12, 36, 248);
+                        color: #fff;
+                        
+                    }
+                }
+                
